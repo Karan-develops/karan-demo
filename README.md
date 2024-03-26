@@ -1,5 +1,7 @@
 # karan-demo
-This is my first git Repository
+
+I MADE THIS REPO FOR BASIC COMMANDS FOR BEGINNERS FOR GITHUB
+
 <br>
 Author -> Karan aggarwal :)
 // Commands (ls, ls -a)
